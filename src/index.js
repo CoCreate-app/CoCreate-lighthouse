@@ -6,8 +6,8 @@ const CoCreateLightHouse = {
 
     action_getHtml: function (element, data) {
         let container = element.closest("form");
-        let formdData = CoCreateApi.getFormData('lighthouse', 'getHtml', container);
-        CoCreateApi.send('lighthouse', 'getHtml', formdData);
+        let formdData = CoCreate.api.getFormData('lighthouse', 'getHtml', container);
+        CoCreate.api.send('lighthouse', 'getHtml', formdData);
     },
 }
 
