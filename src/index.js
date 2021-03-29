@@ -12,7 +12,7 @@ const CoCreateLightHouse = {
 }
 
 
-CoCreate.api.init({
+api.init({
 	name: CoCreateLightHouse.id, 
 	module:	CoCreateLightHouse,
 });
