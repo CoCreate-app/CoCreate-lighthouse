@@ -9,7 +9,7 @@ A simple lighthouse component in vanilla javascript. Easily configured using HTM
 
 ![CoCreate-lighthouse](https://cdn.cocreate.app/docs/CoCreate-lighthouse.gif)
 
-## [Docs & Demo](https://cocreate.app/docs/clone)
+## [Docs & Demo](https://cocreate.app/docs/lighthouse)
 
 For a complete guide and working demo refer to the [doumentation](https://cocreate.app/docs/lighthouse)
 
