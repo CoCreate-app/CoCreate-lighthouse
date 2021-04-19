@@ -1,3 +1,11 @@
+## [1.0.2](https://github.com/CoCreate-app/CoCreate-lighthouse/compare/v1.0.1...v1.0.2) (2021-04-19)
+
+
+### Bug Fixes
+
+* ci and build process ([7b91db1](https://github.com/CoCreate-app/CoCreate-lighthouse/commit/7b91db180f580702a747fe1438e1cb20f78254be))
+* npm publish and cdn deployment ([72d647e](https://github.com/CoCreate-app/CoCreate-lighthouse/commit/72d647efd280eb8c1b0512c0b68434ec6a2099d8))
+
 ## [1.0.1](https://github.com/CoCreate-app/CoCreate-lighthouse/compare/v1.0.0...v1.0.1) (2021-03-29)
 
 
