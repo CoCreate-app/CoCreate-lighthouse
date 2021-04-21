@@ -1,18 +1,14 @@
-const CoCreateLightHouse = {
-    id: 'lighthouse',
-    actions: [
-        'getHtml',
-    ],
-
-    action_getHtml: function (element, data) {
-        let container = element.closest("form");
-        let formdData = CoCreate.api.getFormData('lighthouse', 'getHtml', container);
-        CoCreate.api.send('lighthouse', 'getHtml', formdData);
-    },
-}
-
-
-api.init({
-	name: CoCreateLightHouse.id, 
-	module:	CoCreateLightHouse,
-});
+(function (root, factory) {
+    if (typeof define === 'function' && define.amd) {
+        define(["./client"], function(CoCreateLighthouse) {
+        	return factory(CoCreateLighthouse)
+        });
+    } else if (typeof module === 'object' && module.exports) {
+      const CoCreateLighthouse = require("./server.js")
+      module.exports = factory(CoCreateLighthouse);
+    } else {
+        root.returnExports = factory(root["./client.js"]);
+  }
+}(typeof self !== 'undefined' ? self : this, function (CoCreateLighthouse) {
+  return CoCreateLighthouse;
+}));
