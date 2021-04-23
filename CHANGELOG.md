@@ -1,3 +1,10 @@
+## [1.0.4](https://github.com/CoCreate-app/CoCreate-lighthouse/compare/v1.0.3...v1.0.4) (2021-04-23)
+
+
+### Bug Fixes
+
+* readme and documentation. Removed securitykeys ([791de09](https://github.com/CoCreate-app/CoCreate-lighthouse/commit/791de09f14fc56b5f7806493b1537891a960601d))
+
 ## [1.0.3](https://github.com/CoCreate-app/CoCreate-lighthouse/compare/v1.0.2...v1.0.3) (2021-04-23)
 
 
