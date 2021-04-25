@@ -1,7 +1,7 @@
 'use strict'
 const api = require('@cocreate/api');
 const lighthouse = require('lighthouse');
-const config = require('./config.js');
+//const config = require('./config.js');
 const chromeLauncher = require('chrome-launcher');
 const puppeteer = require("puppeteer");
 
@@ -20,6 +20,7 @@ class CoCreateLightHouse {
 	
 	async sendData(socket, data) {
         let type = data['type'];
+        console.log("Lighthouse")
         switch (type) {
             case 'getHtml':
                 this.getHtml(socket,type,data);
@@ -30,6 +31,7 @@ class CoCreateLightHouse {
 	getHtml(socket,type,data) {
        (async () => {
             const browser = await puppeteer.launch({headless: false});
+            console.log("Entro")
             // const chrome = await chromeLauncher.launch({chromeFlags: ['--headless']});
             // const options = {logLevel: 'info', output: 'html', onlyCategories: ['performance'], port: chrome.port};
             // const runnerResult = await lighthouse('https://server.cocreate.app/CoCreate-website/', options);
