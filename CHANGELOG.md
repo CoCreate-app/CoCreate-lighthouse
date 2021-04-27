@@ -1,3 +1,10 @@
+## [1.0.7](https://github.com/CoCreate-app/CoCreate-lighthouse/compare/v1.0.6...v1.0.7) (2021-04-27)
+
+
+### Bug Fixes
+
+* add host in docs ([df75788](https://github.com/CoCreate-app/CoCreate-lighthouse/commit/df757888a89e0360087e26671f128b55de5d6001))
+
 ## [1.0.6](https://github.com/CoCreate-app/CoCreate-lighthouse/compare/v1.0.5...v1.0.6) (2021-04-27)
 
 
