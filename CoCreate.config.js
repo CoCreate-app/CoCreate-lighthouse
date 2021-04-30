@@ -10,7 +10,7 @@ module.exports = {
             "path": "./docs/index.html",
             "collection": "files",
             "document_id": "6028455571064611a678a1b1",
-            "key": "html",
+            "key": "src",
             "data":{
                 "name": "lighthouse Doc",
                 "domains": ["cocreate.app", "server.cocreate.app", "ws.cocreate.app"],
