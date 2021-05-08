@@ -1,3 +1,10 @@
+## [1.0.8](https://github.com/CoCreate-app/CoCreate-lighthouse/compare/v1.0.7...v1.0.8) (2021-05-08)
+
+
+### Bug Fixes
+
+* add css auto parse and save to docs. ([71b4dd9](https://github.com/CoCreate-app/CoCreate-lighthouse/commit/71b4dd9a62d307fe6d43ce7e210ce1e4f44eb5d9))
+
 ## [1.0.7](https://github.com/CoCreate-app/CoCreate-lighthouse/compare/v1.0.6...v1.0.7) (2021-04-27)
 
 
