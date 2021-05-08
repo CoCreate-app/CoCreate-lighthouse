@@ -11,7 +11,14 @@ const CoCreateLightHouse = {
         api.send('lighthouse', 'getHtml', formdData);
     },*/
     render_getHtml: function(data) {
-		console.log(data)
+		if (data.object == "error") {
+            alert(data.data)
+        }
+		//console.log(data);
+		data = {data: data};
+    	console.log("DAta ",data)
+    	api.render('getHtml', data);	
+	
 	},
 }
 

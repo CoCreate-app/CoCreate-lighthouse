@@ -13,8 +13,22 @@
 <h1>Form Demo</h1>
 
 <form>
-    URL: <input data-lighthouse="getHtml.url">
-    <button data-actions='getHtml'>Create Form</button>
+    URL: <input data-lighthouse="getHtml.url" value="https://server.cocreate.app/lighthouse.html">
+    <button data-actions='getHtml' >Create Form</button>
+    
+    <div data-template_id="getHtml">
+        <h4>result :- </h4>
+        <div class="template1" data-value="{{data.id}}" data-render_array="data">
+            <div>
+              report  : - 
+              <iframe srcdoc={{data.report}}></iframe>
+             <!-- html  : - <div >{{data.html}}</div>-->
+            </div>
+        </div>
+    </div>
+        
+        
+        
 </form>
 
 
@@ -37,7 +51,7 @@ var config = {
 <!--CoCreate Plugins-->
 
 
-<script src="../dist/CoCreate-lighthouse.js"></script>
+<script src="../dist/CoCreate-lighthouse.js?v=1"></script>
 
 </body>
 

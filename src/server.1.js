@@ -21,17 +21,17 @@ class CoCreateLightHouse {
 	
 	async sendData(socket, data) {
         let type = data['type'];
-        const params = data['data'];
         console.log("Lighthouse")
         switch (type) {
             case 'getHtml':
-                this.getHtml(socket,type,params["data"]);
-            break;
+                this.getHtml(socket,type,data);
+                break;
         }
 	}
 	
-	async getHtml(socket,type,data) {
-         /*  const chrome = await chromeLauncher.launch({chromeFlags: ['--headless']});
+	getHtml(socket,type,data) {
+       (async () => {
+           const chrome = await chromeLauncher.launch({chromeFlags: ['--headless']});
           const options = {logLevel: 'info', output: 'html', onlyCategories: ['performance'], port: chrome.port};
           const runnerResult = await lighthouse('https://example.com', options);
         
@@ -45,28 +45,24 @@ class CoCreateLightHouse {
           console.log('Performance score was', runnerResult.lhr.categories.performance.score * 100);
         
           await chrome.kill();
-           */
-            //const browser = await puppeteer.launch({headless: false});
+           
+/*            const browser = await puppeteer.launch({headless: false});
             console.log("Entro")
-            console.log(data)
-            let url = data["url"];
-            console.log("URL ",url)
             const chrome = await chromeLauncher.launch({chromeFlags: ['--headless']});
             const options = {logLevel: 'info', output: 'html', onlyCategories: ['performance'], port: chrome.port};
-            const runnerResult = await lighthouse(url, options);
+            const runnerResult = await lighthouse('https://server.cocreate.app/CoCreate-website/src/', options);
             const reportHtml = runnerResult.report;
-            //let response = {"html":reportHtml,'score':runnerResult.lhr.categories.performance.score}
-            api.send_response(this.wsManager, socket, { "type": type, "response": runnerResult }, this.module_id)
-            //fs.writeFileSync('cocreate.html', reportHtml);
-            //console.log(runnerResult.report)
+            // // fs.writeFileSync('cocreate.html', reportHtml);
 
             console.log('Report is done for', runnerResult.lhr.finalUrl);
             console.log('Performance score was', runnerResult.lhr.categories.performance.score * 100);
         
             await chrome.kill();
-            //await browser.close();
-           // console.log(browser)
-
+            await browser.close();
+            console.log(browser
+            */
+            
+            })();
     	};
 	
 }
