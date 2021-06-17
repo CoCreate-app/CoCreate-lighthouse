@@ -1,3 +1,10 @@
+## [1.0.11](https://github.com/CoCreate-app/CoCreate-lighthouse/compare/v1.0.10...v1.0.11) (2021-06-17)
+
+
+### Bug Fixes
+
+* added header for seo ([cd8227a](https://github.com/CoCreate-app/CoCreate-lighthouse/commit/cd8227a7f29611904ed5fe73b242c8cfe8912521))
+
 ## [1.0.10](https://github.com/CoCreate-app/CoCreate-lighthouse/compare/v1.0.9...v1.0.10) (2021-05-23)
 
 
