@@ -1,3 +1,10 @@
+## [1.0.15](https://github.com/CoCreate-app/CoCreate-lighthouse/compare/v1.0.14...v1.0.15) (2021-06-30)
+
+
+### Bug Fixes
+
+* automated and manual workflows ([8538fb0](https://github.com/CoCreate-app/CoCreate-lighthouse/commit/8538fb01dc54a0d610942dc362199bdc4b19676f))
+
 ## [1.0.14](https://github.com/CoCreate-app/CoCreate-lighthouse/compare/v1.0.13...v1.0.14) (2021-06-25)
 
 
