@@ -1,3 +1,11 @@
+## [1.0.18](https://github.com/CoCreate-app/CoCreate-lighthouse/compare/v1.0.17...v1.0.18) (2021-07-13)
+
+
+### Bug Fixes
+
+* add yarn lockfile to git ignore ([3cfae29](https://github.com/CoCreate-app/CoCreate-lighthouse/commit/3cfae2968d213c6c145bf2b0b2d08dc0b96afbc6))
+* remove yarn.lock ([e230cc8](https://github.com/CoCreate-app/CoCreate-lighthouse/commit/e230cc804f6c5cbc147a8dd645b4146e6b21c748))
+
 ## [1.0.17](https://github.com/CoCreate-app/CoCreate-lighthouse/compare/v1.0.16...v1.0.17) (2021-07-10)
 
 
