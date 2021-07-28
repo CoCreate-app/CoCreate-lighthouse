@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/CoCreate-app/CoCreate-lighthouse/compare/v1.0.20...v1.1.0) (2021-07-28)
+
+
+### Features
+
+* add new is{attribute} system and remove data- from attributtes ([c6cf98f](https://github.com/CoCreate-app/CoCreate-lighthouse/commit/c6cf98fb0c916fc7a948cc7bfa630859781673a8))
+
 ## [1.0.20](https://github.com/CoCreate-app/CoCreate-lighthouse/compare/v1.0.19...v1.0.20) (2021-07-17)
 
 
