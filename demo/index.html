@@ -14,11 +14,11 @@
 
 <form>
     URL: <input data-lighthouse="getHtml.url" value="https://server.cocreate.app/lighthouse.html">
-    <button data-actions='getHtml' >Create Form</button>
+    <button actions='getHtml' >Create Form</button>
     
-    <div data-template_id="getHtml">
+    <div template_id="getHtml">
         <h4>result :- </h4>
-        <div class="template1" data-value="{{data.id}}" data-render_array="data">
+        <div class="template1" data-value="{{data.id}}" render-array="data">
             <div>
               report  : - 
               <iframe srcdoc={{data.report}}></iframe>
