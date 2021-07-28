@@ -1,3 +1,10 @@
+## [1.1.1](https://github.com/CoCreate-app/CoCreate-lighthouse/compare/v1.1.0...v1.1.1) (2021-07-28)
+
+
+### Bug Fixes
+
+* remove data- from fetch, pass and filter ([1f09f33](https://github.com/CoCreate-app/CoCreate-lighthouse/commit/1f09f33b33d3844e5a870dbea3c773e9e95258ec))
+
 # [1.1.0](https://github.com/CoCreate-app/CoCreate-lighthouse/compare/v1.0.20...v1.1.0) (2021-07-28)
 
 
