@@ -1,3 +1,11 @@
+## [1.1.2](https://github.com/CoCreate-app/CoCreate-lighthouse/compare/v1.1.1...v1.1.2) (2021-08-02)
+
+
+### Bug Fixes
+
+* remove data- from attributes ([a47f727](https://github.com/CoCreate-app/CoCreate-lighthouse/commit/a47f727f6d9b7c8c679c5d4b113e49ce4142062a))
+* update data-fullscreen to fullscreen ([3b508cf](https://github.com/CoCreate-app/CoCreate-lighthouse/commit/3b508cfac6c23bf01fddf5a4f92b8cb4b0077969))
+
 ## [1.1.1](https://github.com/CoCreate-app/CoCreate-lighthouse/compare/v1.1.0...v1.1.1) (2021-07-28)
 
 
