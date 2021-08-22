@@ -1,3 +1,11 @@
+## [1.1.5](https://github.com/CoCreate-app/CoCreate-lighthouse/compare/v1.1.4...v1.1.5) (2021-08-22)
+
+
+### Bug Fixes
+
+* bump package versions ([22d201b](https://github.com/CoCreate-app/CoCreate-lighthouse/commit/22d201bb703211638a7965005c6f36c74fc3e701))
+* removed data- from main-content, clone, filter-value_type ([10b9c10](https://github.com/CoCreate-app/CoCreate-lighthouse/commit/10b9c10596e53235acd9c8b44f38c63da02ad6c3))
+
 ## [1.1.4](https://github.com/CoCreate-app/CoCreate-lighthouse/compare/v1.1.3...v1.1.4) (2021-08-22)
 
 
