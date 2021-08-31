@@ -1,3 +1,10 @@
+## [1.1.8](https://github.com/CoCreate-app/CoCreate-lighthouse/compare/v1.1.7...v1.1.8) (2021-08-31)
+
+
+### Bug Fixes
+
+* update dependencies ([e02a0de](https://github.com/CoCreate-app/CoCreate-lighthouse/commit/e02a0de6664da0cf637a698510bba5d6d9cc2323))
+
 ## [1.1.7](https://github.com/CoCreate-app/CoCreate-lighthouse/compare/v1.1.6...v1.1.7) (2021-08-27)
 
 
