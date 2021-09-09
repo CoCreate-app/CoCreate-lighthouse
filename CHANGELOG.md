@@ -1,3 +1,10 @@
+## [1.1.11](https://github.com/CoCreate-app/CoCreate-lighthouse/compare/v1.1.10...v1.1.11) (2021-09-09)
+
+
+### Bug Fixes
+
+* CoCreate.config directory, path, name and  public ([ef703bb](https://github.com/CoCreate-app/CoCreate-lighthouse/commit/ef703bb19784ba2f1b0992943fe7ab9742557475))
+
 ## [1.1.10](https://github.com/CoCreate-app/CoCreate-lighthouse/compare/v1.1.9...v1.1.10) (2021-09-08)
 
 
