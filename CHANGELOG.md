@@ -1,3 +1,10 @@
+## [1.1.15](https://github.com/CoCreate-app/CoCreate-lighthouse/compare/v1.1.14...v1.1.15) (2021-09-12)
+
+
+### Bug Fixes
+
+* update sidenav to use resize and toggle ([bdde479](https://github.com/CoCreate-app/CoCreate-lighthouse/commit/bdde4796ed40eb77054f7a3866db5d88bb88525b))
+
 ## [1.1.14](https://github.com/CoCreate-app/CoCreate-lighthouse/compare/v1.1.13...v1.1.14) (2021-09-09)
 
 
