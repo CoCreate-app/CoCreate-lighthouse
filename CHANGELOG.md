@@ -1,3 +1,10 @@
+## [1.1.17](https://github.com/CoCreate-app/CoCreate-lighthouse/compare/v1.1.16...v1.1.17) (2021-09-14)
+
+
+### Bug Fixes
+
+* add cocreate.app to domains ([3d468d0](https://github.com/CoCreate-app/CoCreate-lighthouse/commit/3d468d04f733a996daec59527fd4c6773ab508a5))
+
 ## [1.1.16](https://github.com/CoCreate-app/CoCreate-lighthouse/compare/v1.1.15...v1.1.16) (2021-09-13)
 
 
