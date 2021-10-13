@@ -1,6 +1,6 @@
 # CoCreate-lighthouse
 
-A simple lighthouse component in vanilla javascript. Easily configured using HTML5 data-attributes and/or JavaScript API. Take it for a spin in our [playground!](https://cocreate.app/docs/lighthouse)
+A simple lighthouse component in vanilla javascript. Easily configured using HTML5 attributes and/or JavaScript API. Take it for a spin in our [playground!](https://cocreate.app/docs/lighthouse)
 
 ![minified](https://img.badgesize.io/https://cdn.cocreate.app/lighthouse/latest/CoCreate-lighthouse.min.js?style=flat-square&label=minified&color=orange)
 ![gzip](https://img.badgesize.io/https://cdn.cocreate.app/lighthouse/latest/CoCreate-lighthouse.min.js?compression=gzip&style=flat-square&label=gzip&color=yellow)
