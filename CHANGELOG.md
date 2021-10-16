@@ -1,3 +1,10 @@
+## [1.1.31](https://github.com/CoCreate-app/CoCreate-lighthouse/compare/v1.1.30...v1.1.31) (2021-10-16)
+
+
+### Bug Fixes
+
+* update socket package to fix bug in docs ([9be6540](https://github.com/CoCreate-app/CoCreate-lighthouse/commit/9be654097dd54a076d7f4ec86236b792d53dd7aa))
+
 ## [1.1.30](https://github.com/CoCreate-app/CoCreate-lighthouse/compare/v1.1.29...v1.1.30) (2021-10-15)
 
 
