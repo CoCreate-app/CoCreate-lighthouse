@@ -1,3 +1,10 @@
+## [1.1.47](https://github.com/CoCreate-app/CoCreate-lighthouse/compare/v1.1.46...v1.1.47) (2021-11-26)
+
+
+### Bug Fixes
+
+* docs sidenav width ([701ea1e](https://github.com/CoCreate-app/CoCreate-lighthouse/commit/701ea1eba2afcf62c3f075ba8acd7b286948630e))
+
 ## [1.1.46](https://github.com/CoCreate-app/CoCreate-lighthouse/compare/v1.1.45...v1.1.46) (2021-11-26)
 
 
