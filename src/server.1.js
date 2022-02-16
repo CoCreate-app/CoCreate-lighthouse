@@ -8,14 +8,14 @@ const puppeteer = require("puppeteer");
 
 class CoCreateLightHouse {
 	constructor(wsManager) {
-		this.module_id = 'lighthouse';
+		this.moduleName = 'lighthouse';
 		this.wsManager = wsManager;
 		this.init();
 	}
 	
 	init() {
 		if (this.wsManager) {
-			this.wsManager.on(this.module_id,(socket, data) => this.sendData(socket, data));
+			this.wsManager.on(this.moduleName,(socket, data) => this.sendData(socket, data));
 		}
 	}
 	
