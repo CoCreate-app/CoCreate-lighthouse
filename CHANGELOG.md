@@ -1,3 +1,10 @@
+# [1.2.0](https://github.com/CoCreate-app/CoCreate-lighthouse/compare/v1.1.58...v1.2.0) (2022-02-16)
+
+
+### Features
+
+* define request and response functions, if functions are not deifne defualt functions exist that will request and render results. Reduced and improved code quality ([8c250a3](https://github.com/CoCreate-app/CoCreate-lighthouse/commit/8c250a375788a50712e6b8730293324b69fb41e0))
+
 ## [1.1.58](https://github.com/CoCreate-app/CoCreate-lighthouse/compare/v1.1.57...v1.1.58) (2022-02-10)
 
 
