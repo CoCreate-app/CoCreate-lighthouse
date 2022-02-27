@@ -9,5 +9,5 @@ const CoCreateLightHouse = {
 
 api.init({
 	name: CoCreateLightHouse.name, 
-	module:	CoCreateLightHouse,
+	component:	CoCreateLightHouse,
 });
