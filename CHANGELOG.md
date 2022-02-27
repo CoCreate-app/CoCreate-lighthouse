@@ -1,3 +1,10 @@
+## [1.2.3](https://github.com/CoCreate-app/CoCreate-lighthouse/compare/v1.2.2...v1.2.3) (2022-02-27)
+
+
+### Bug Fixes
+
+* update param  module to component ([f6b1633](https://github.com/CoCreate-app/CoCreate-lighthouse/commit/f6b163351f354835b5dab0ae033f0e7b867210ba))
+
 ## [1.2.2](https://github.com/CoCreate-app/CoCreate-lighthouse/compare/v1.2.1...v1.2.2) (2022-02-24)
 
 
