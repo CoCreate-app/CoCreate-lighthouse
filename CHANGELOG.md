@@ -1,3 +1,10 @@
+## [1.2.4](https://github.com/CoCreate-app/CoCreate-lighthouse/compare/v1.2.3...v1.2.4) (2022-05-06)
+
+
+### Bug Fixes
+
+* update config organization_Id to organization_id ([5be23b0](https://github.com/CoCreate-app/CoCreate-lighthouse/commit/5be23b03725a960df2bd7893edfab588f0856b5b))
+
 ## [1.2.3](https://github.com/CoCreate-app/CoCreate-lighthouse/compare/v1.2.2...v1.2.3) (2022-02-27)
 
 
