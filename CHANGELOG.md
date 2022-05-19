@@ -1,3 +1,10 @@
+## [1.2.5](https://github.com/CoCreate-app/CoCreate-lighthouse/compare/v1.2.4...v1.2.5) (2022-05-19)
+
+
+### Bug Fixes
+
+* update document_id on link index.css ([5a2284f](https://github.com/CoCreate-app/CoCreate-lighthouse/commit/5a2284fa2e454f7cfb14f98f953bd7e0ef8ebba8))
+
 ## [1.2.4](https://github.com/CoCreate-app/CoCreate-lighthouse/compare/v1.2.3...v1.2.4) (2022-05-06)
 
 
