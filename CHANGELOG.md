@@ -1,3 +1,11 @@
+## [1.2.7](https://github.com/CoCreate-app/CoCreate-lighthouse/compare/v1.2.6...v1.2.7) (2022-06-12)
+
+
+### Bug Fixes
+
+* update dependencies ([0a5df70](https://github.com/CoCreate-app/CoCreate-lighthouse/commit/0a5df70f46a2a12bf38368aa8b4ecf2608feca0f))
+* update docs css document_id ([65db277](https://github.com/CoCreate-app/CoCreate-lighthouse/commit/65db27770b6946c7f81f58f17f9dd167c4daf02c))
+
 ## [1.2.6](https://github.com/CoCreate-app/CoCreate-lighthouse/compare/v1.2.5...v1.2.6) (2022-05-23)
 
 
