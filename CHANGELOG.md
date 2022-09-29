@@ -1,3 +1,10 @@
+## [1.2.10](https://github.com/CoCreate-app/CoCreate-lighthouse/compare/v1.2.9...v1.2.10) (2022-09-29)
+
+
+### Bug Fixes
+
+* config renameed to CoCreateConfig ([3f45806](https://github.com/CoCreate-app/CoCreate-lighthouse/commit/3f45806a42715cf121121827f4a7746233dbdd24))
+
 ## [1.2.9](https://github.com/CoCreate-app/CoCreate-lighthouse/compare/v1.2.8...v1.2.9) (2022-09-01)
 
 
