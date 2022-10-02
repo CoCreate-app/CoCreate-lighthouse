@@ -1,3 +1,10 @@
+## [1.2.17](https://github.com/CoCreate-app/CoCreate-lighthouse/compare/v1.2.16...v1.2.17) (2022-10-02)
+
+
+### Bug Fixes
+
+* bump @cocreate/hosting and @cocreate/socket-client ([8128707](https://github.com/CoCreate-app/CoCreate-lighthouse/commit/8128707ae1027483df0f868a08b17720e18cf5b8))
+
 ## [1.2.16](https://github.com/CoCreate-app/CoCreate-lighthouse/compare/v1.2.15...v1.2.16) (2022-10-01)
 
 
