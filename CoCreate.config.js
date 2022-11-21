@@ -10,7 +10,7 @@ module.exports = {
             "collection": "files",
             "document_id": "6028455571064611a678a1b1",
             "key": "src",
-            "data":{
+            "document": {
                 "name": "index.html",
                 "path": "/docs/lighthouse/index.html",
                 "domains": [
