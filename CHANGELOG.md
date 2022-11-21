@@ -1,3 +1,10 @@
+## [1.2.21](https://github.com/CoCreate-app/CoCreate-lighthouse/compare/v1.2.20...v1.2.21) (2022-11-21)
+
+
+### Bug Fixes
+
+* replaced document_id with document._id ([ef08d04](https://github.com/CoCreate-app/CoCreate-lighthouse/commit/ef08d04ec835eb96be294b83e0fd3edddc72820b))
+
 ## [1.2.20](https://github.com/CoCreate-app/CoCreate-lighthouse/compare/v1.2.19...v1.2.20) (2022-11-21)
 
 
