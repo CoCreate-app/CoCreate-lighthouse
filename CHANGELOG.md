@@ -1,3 +1,11 @@
+## [1.2.23](https://github.com/CoCreate-app/CoCreate-lighthouse/compare/v1.2.22...v1.2.23) (2022-11-22)
+
+
+### Bug Fixes
+
+* apply src: {{source}} to CoCreate.config ([18e9e0d](https://github.com/CoCreate-app/CoCreate-lighthouse/commit/18e9e0d43c139289bc41ff695a83ab1269d0413c))
+* workflow docs ([58d286a](https://github.com/CoCreate-app/CoCreate-lighthouse/commit/58d286a85714847e8cd1a1200832e9a042a4905d))
+
 ## [1.2.22](https://github.com/CoCreate-app/CoCreate-lighthouse/compare/v1.2.21...v1.2.22) (2022-11-21)
 
 
