@@ -1,3 +1,10 @@
+## [1.2.39](https://github.com/CoCreate-app/CoCreate-lighthouse/compare/v1.2.38...v1.2.39) (2022-12-13)
+
+
+### Bug Fixes
+
+* removed un used devDependencies ([875da8a](https://github.com/CoCreate-app/CoCreate-lighthouse/commit/875da8aaa513185b3cf10e9e7589ad00696a3d1c))
+
 ## [1.2.38](https://github.com/CoCreate-app/CoCreate-lighthouse/compare/v1.2.37...v1.2.38) (2022-12-13)
 
 
