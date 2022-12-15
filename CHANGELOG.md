@@ -1,3 +1,10 @@
+## [1.2.40](https://github.com/CoCreate-app/CoCreate-lighthouse/compare/v1.2.39...v1.2.40) (2022-12-15)
+
+
+### Bug Fixes
+
+* add missing dev dependency style-loader ([0eb69db](https://github.com/CoCreate-app/CoCreate-lighthouse/commit/0eb69db36e2a98f1f1f4e280b8fb15edcf50d315))
+
 ## [1.2.39](https://github.com/CoCreate-app/CoCreate-lighthouse/compare/v1.2.38...v1.2.39) (2022-12-13)
 
 
