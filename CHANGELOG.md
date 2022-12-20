@@ -1,3 +1,10 @@
+## [1.2.41](https://github.com/CoCreate-app/CoCreate-lighthouse/compare/v1.2.40...v1.2.41) (2022-12-20)
+
+
+### Bug Fixes
+
+* bump dependencies ([e98808a](https://github.com/CoCreate-app/CoCreate-lighthouse/commit/e98808acfd831d0e82514870919f8053e6f8eaf7))
+
 ## [1.2.40](https://github.com/CoCreate-app/CoCreate-lighthouse/compare/v1.2.39...v1.2.40) (2022-12-15)
 
 
