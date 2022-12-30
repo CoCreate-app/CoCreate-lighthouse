@@ -1,3 +1,10 @@
+## [1.2.49](https://github.com/CoCreate-app/CoCreate-lighthouse/compare/v1.2.48...v1.2.49) (2022-12-30)
+
+
+### Bug Fixes
+
+* update config sources to use template  braces with entry on src ([2362c53](https://github.com/CoCreate-app/CoCreate-lighthouse/commit/2362c532be4b94dbe835990b801380c1d46c09c4))
+
 ## [1.2.48](https://github.com/CoCreate-app/CoCreate-lighthouse/compare/v1.2.47...v1.2.48) (2022-12-29)
 
 
