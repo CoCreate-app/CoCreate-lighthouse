@@ -1,3 +1,10 @@
+## [1.2.51](https://github.com/CoCreate-app/CoCreate-lighthouse/compare/v1.2.50...v1.2.51) (2023-01-01)
+
+
+### Bug Fixes
+
+* docs sanbox overflow ([39ac540](https://github.com/CoCreate-app/CoCreate-lighthouse/commit/39ac5408d0778a63807324cdfac475352fce4480))
+
 ## [1.2.50](https://github.com/CoCreate-app/CoCreate-lighthouse/compare/v1.2.49...v1.2.50) (2022-12-31)
 
 
