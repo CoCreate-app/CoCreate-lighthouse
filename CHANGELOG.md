@@ -1,3 +1,11 @@
+## [1.2.53](https://github.com/CoCreate-app/CoCreate-lighthouse/compare/v1.2.52...v1.2.53) (2023-01-06)
+
+
+### Bug Fixes
+
+* bump dependencies, worklow [@v3](https://github.com/v3) ([5060c2d](https://github.com/CoCreate-app/CoCreate-lighthouse/commit/5060c2d6e61cf01240a5a15750f82b36395ccea8))
+* edit in github btn styles ([062b4d8](https://github.com/CoCreate-app/CoCreate-lighthouse/commit/062b4d8dd45b8e1e682df14f6be8c5825b2c0e06))
+
 ## [1.2.52](https://github.com/CoCreate-app/CoCreate-lighthouse/compare/v1.2.51...v1.2.52) (2023-01-05)
 
 
