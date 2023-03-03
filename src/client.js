@@ -2,12 +2,9 @@ import api from '@cocreate/api'
 
 const CoCreateLightHouse = {
     name: 'lighthouse',
-    actions: {
+    endPoints: {
         getHtml: {},
     }
 }
 
-api.init({
-	name: CoCreateLightHouse.name, 
-	component:	CoCreateLightHouse,
-});
+api.init(CoCreateLightHouse);
