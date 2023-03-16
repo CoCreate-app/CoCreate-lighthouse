@@ -59,8 +59,8 @@
     "webpack-log": "^3.0.1"
   },
   "dependencies": {
-    "@cocreate/api": "^1.6.11",
-    "@cocreate/docs": "^1.5.13",
+    "@cocreate/api": "^1.9.0",
+    "@cocreate/docs": "^1.6.0",
     "chrome-launcher": "^0.14.0",
     "chrome-remote-interface": "^0.30.0",
     "fs": "^0.0.1-security",
