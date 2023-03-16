@@ -1,3 +1,10 @@
+# [1.3.0](https://github.com/CoCreate-app/CoCreate-lighthouse/compare/v1.2.63...v1.3.0) (2023-03-16)
+
+
+### Features
+
+* replaced get-value and set-value with a super charged version of CoCreate-events ([7c24168](https://github.com/CoCreate-app/CoCreate-lighthouse/commit/7c241681c0a89551796a0a2b82b4be80f101960a))
+
 ## [1.2.63](https://github.com/CoCreate-app/CoCreate-lighthouse/compare/v1.2.62...v1.2.63) (2023-03-15)
 
 
