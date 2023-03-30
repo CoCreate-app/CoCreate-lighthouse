@@ -1,3 +1,10 @@
+## [1.3.3](https://github.com/CoCreate-app/CoCreate-lighthouse/compare/v1.3.2...v1.3.3) (2023-03-30)
+
+
+### Bug Fixes
+
+* bump [@cocreate](https://github.com/cocreate) dependencies' ([c65b947](https://github.com/CoCreate-app/CoCreate-lighthouse/commit/c65b947b0ed904ac2a6a4da52322ba516591e81d))
+
 ## [1.3.2](https://github.com/CoCreate-app/CoCreate-lighthouse/compare/v1.3.1...v1.3.2) (2023-03-16)
 
 
