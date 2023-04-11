@@ -1,3 +1,10 @@
+## [1.3.4](https://github.com/CoCreate-app/CoCreate-lighthouse/compare/v1.3.3...v1.3.4) (2023-04-11)
+
+
+### Bug Fixes
+
+* renamed domains to hosts ([89d0b2c](https://github.com/CoCreate-app/CoCreate-lighthouse/commit/89d0b2c589a04647e61064f05dbe4898a9605be2))
+
 ## [1.3.3](https://github.com/CoCreate-app/CoCreate-lighthouse/compare/v1.3.2...v1.3.3) (2023-03-30)
 
 
