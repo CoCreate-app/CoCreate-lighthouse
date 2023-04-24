@@ -1,3 +1,10 @@
+## [1.4.1](https://github.com/CoCreate-app/CoCreate-lighthouse/compare/v1.4.0...v1.4.1) (2023-04-24)
+
+
+### Bug Fixes
+
+* removed uglifyjs-webpack-plugin ([2e12b26](https://github.com/CoCreate-app/CoCreate-lighthouse/commit/2e12b267af8141adeb150363b87346d7c041531b))
+
 # [1.4.0](https://github.com/CoCreate-app/CoCreate-lighthouse/compare/v1.3.6...v1.4.0) (2023-04-24)
 
 
