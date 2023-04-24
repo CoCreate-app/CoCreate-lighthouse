@@ -1,3 +1,10 @@
+## [1.4.4](https://github.com/CoCreate-app/CoCreate-lighthouse/compare/v1.4.3...v1.4.4) (2023-04-24)
+
+
+### Bug Fixes
+
+* updated worrkflows to v3 and node version 16 ([6619f2d](https://github.com/CoCreate-app/CoCreate-lighthouse/commit/6619f2d61b7b07350d98427f4b9fe7a1cd011220))
+
 ## [1.4.3](https://github.com/CoCreate-app/CoCreate-lighthouse/compare/v1.4.2...v1.4.3) (2023-04-24)
 
 
