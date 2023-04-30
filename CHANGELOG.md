@@ -1,3 +1,12 @@
+## [1.4.5](https://github.com/CoCreate-app/CoCreate-lighthouse/compare/v1.4.4...v1.4.5) (2023-04-30)
+
+
+### Bug Fixes
+
+* fullscreen target updated to fullscreen fullscreen-target ([867a842](https://github.com/CoCreate-app/CoCreate-lighthouse/commit/867a8429d24a3547319f686436ae386a293e6c30))
+* package-lock.json and pnpm-lock.yaml added to .gitignore ([90b4f13](https://github.com/CoCreate-app/CoCreate-lighthouse/commit/90b4f137d5ccd689135f55ca4af36a0181d05cea))
+* removed toogle fullscreen icons. now using css content ([70e80bf](https://github.com/CoCreate-app/CoCreate-lighthouse/commit/70e80bfaaba14e9cafd08e9e9772d18683510ed8))
+
 ## [1.4.4](https://github.com/CoCreate-app/CoCreate-lighthouse/compare/v1.4.3...v1.4.4) (2023-04-24)
 
 
