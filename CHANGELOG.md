@@ -1,3 +1,10 @@
+## [1.4.7](https://github.com/CoCreate-app/CoCreate-lighthouse/compare/v1.4.6...v1.4.7) (2023-05-01)
+
+
+### Bug Fixes
+
+* update manifest.json to manifest.webmanifest ([dfd67ce](https://github.com/CoCreate-app/CoCreate-lighthouse/commit/dfd67cebdb74a908cfa69d25d56161add281cb99))
+
 ## [1.4.6](https://github.com/CoCreate-app/CoCreate-lighthouse/compare/v1.4.5...v1.4.6) (2023-05-01)
 
 
