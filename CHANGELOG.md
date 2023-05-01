@@ -1,3 +1,10 @@
+## [1.4.6](https://github.com/CoCreate-app/CoCreate-lighthouse/compare/v1.4.5...v1.4.6) (2023-05-01)
+
+
+### Bug Fixes
+
+* replace fontawesome with svg ([acccb64](https://github.com/CoCreate-app/CoCreate-lighthouse/commit/acccb647f4897b9ba7c95ad03da0a253f54a5325))
+
 ## [1.4.5](https://github.com/CoCreate-app/CoCreate-lighthouse/compare/v1.4.4...v1.4.5) (2023-04-30)
 
 
