@@ -1,3 +1,10 @@
+## [1.4.9](https://github.com/CoCreate-app/CoCreate-lighthouse/compare/v1.4.8...v1.4.9) (2023-05-10)
+
+
+### Bug Fixes
+
+* apikey renamed to key ([921578c](https://github.com/CoCreate-app/CoCreate-lighthouse/commit/921578cf14b0b73b428cfb1d74588126de4c8d72))
+
 ## [1.4.8](https://github.com/CoCreate-app/CoCreate-lighthouse/compare/v1.4.7...v1.4.8) (2023-05-06)
 
 
