@@ -1,3 +1,10 @@
+## [1.4.10](https://github.com/CoCreate-app/CoCreate-lighthouse/compare/v1.4.9...v1.4.10) (2023-05-19)
+
+
+### Bug Fixes
+
+* update packages to latest version. This commit updates various packages in the dependencies section of the package.json file to their latest published versions, thereby fixing multiple bugs and improving overall performance. ([ad7be1e](https://github.com/CoCreate-app/CoCreate-lighthouse/commit/ad7be1e75dfd87982983498fab52432b624f1875))
+
 ## [1.4.9](https://github.com/CoCreate-app/CoCreate-lighthouse/compare/v1.4.8...v1.4.9) (2023-05-10)
 
 
