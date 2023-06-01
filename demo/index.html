@@ -1,40 +1,40 @@
- <!DOCTYPE html>
+<!DOCTYPE html>
 <html>
-<head>
-    <title>LightHouse</title>
+    <head>
+        <title>LightHouse</title>
 
-    <style type="text/css">
-      .template{display:none}
-    </style>
+        <style type="text/css">
+            .template {
+                display: none;
+            }
+        </style>
 
-    <link rel="manifest" href="/manifest.webmanifest">
-</head>
-<body>
-    
-<h1>Form Demo</h1>
+        <link rel="manifest" href="/manifest.webmanifest" />
+    </head>
+    <body>
+        <h1>Form Demo</h1>
 
-<form>
-    URL: <input lighthouse="getHtml.url" value="https://server.cocreate.app/lighthouse.html">
-    <button actions='getHtml' >Create Form</button>
-    
-    <div template_id="getHtml">
-        <h4>result :- </h4>
-        <div class="template1" value="{{data.id}}" render-array="data">
-            <div>
-              report  : - 
-              <iframe srcdoc={{data.report}}></iframe>
-             <!-- html  : - <div >{{data.html}}</div>-->
+        <form>
+            URL:
+            <input
+                lighthouse="getHtml.url"
+                value="https://server.cocreate.app/lighthouse.html" />
+            <button actions="getHtml">Create Form</button>
+
+            <div template_id="getHtml">
+                <h4>result :-</h4>
+                <div class="template1" value="{{data.id}}" render-array="data">
+                    <div>
+                        report : -
+                        <iframe srcdoc="{{data.report}}"></iframe>
+                        <!-- html  : - <div >{{data.html}}</div>-->
+                    </div>
+                </div>
             </div>
-        </div>
-    </div>   
-        
-</form>
+        </form>
 
-
-<!--CoCreateJS-->
-<script src="https://cdn.cocreate.app/latest/CoCreate.min.js" ></script>
-<!-- <script src="../dist/CoCreate-lighthouse.js?v=1"></script> -->
-
-</body>
-
+        <!--CoCreateJS-->
+        <script src="https://cdn.cocreate.app/latest/CoCreate.min.js"></script>
+        <!-- <script src="../dist/CoCreate-lighthouse.js?v=1"></script> -->
+    </body>
 </html>
