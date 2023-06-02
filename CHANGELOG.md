@@ -1,3 +1,10 @@
+## [1.4.12](https://github.com/CoCreate-app/CoCreate-lighthouse/compare/v1.4.11...v1.4.12) (2023-06-02)
+
+
+### Bug Fixes
+
+* format demo html ([9a294ce](https://github.com/CoCreate-app/CoCreate-lighthouse/commit/9a294ce4c83bed4b720afe91cb309d74d32fcef8))
+
 ## [1.4.11](https://github.com/CoCreate-app/CoCreate-lighthouse/compare/v1.4.10...v1.4.11) (2023-05-21)
 
 
