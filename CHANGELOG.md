@@ -1,3 +1,10 @@
+## [1.4.15](https://github.com/CoCreate-app/CoCreate-lighthouse/compare/v1.4.14...v1.4.15) (2023-06-04)
+
+
+### Bug Fixes
+
+* Refactor CoCreate.config.js to remove hard-coded credentials ([876661d](https://github.com/CoCreate-app/CoCreate-lighthouse/commit/876661d73c6a429046171ed324e5e3cd5706db1b))
+
 ## [1.4.14](https://github.com/CoCreate-app/CoCreate-lighthouse/compare/v1.4.13...v1.4.14) (2023-06-04)
 
 
