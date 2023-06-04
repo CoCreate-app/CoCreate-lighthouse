@@ -1,3 +1,11 @@
+## [1.4.14](https://github.com/CoCreate-app/CoCreate-lighthouse/compare/v1.4.13...v1.4.14) (2023-06-04)
+
+
+### Bug Fixes
+
+* replaced secert GITHUB_TOKEN with GITHUB ([366f1b8](https://github.com/CoCreate-app/CoCreate-lighthouse/commit/366f1b8abfb04356c0648395946d2cc3e51a7c4a))
+* Update dependencies versions for [@cocreate](https://github.com/cocreate) libraries ([3215077](https://github.com/CoCreate-app/CoCreate-lighthouse/commit/321507732bc9c53e53f1f142f7e8fcc04d4bd4a6))
+
 ## [1.4.13](https://github.com/CoCreate-app/CoCreate-lighthouse/compare/v1.4.12...v1.4.13) (2023-06-04)
 
 
