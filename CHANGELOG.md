@@ -1,3 +1,10 @@
+## [1.4.13](https://github.com/CoCreate-app/CoCreate-lighthouse/compare/v1.4.12...v1.4.13) (2023-06-04)
+
+
+### Bug Fixes
+
+* **semantic-release:** worklow error solved by running node version 14 ([295786e](https://github.com/CoCreate-app/CoCreate-lighthouse/commit/295786e199371c2ba10a67343435ae2848e1bb4b))
+
 ## [1.4.12](https://github.com/CoCreate-app/CoCreate-lighthouse/compare/v1.4.11...v1.4.12) (2023-06-02)
 
 
