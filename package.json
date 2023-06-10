@@ -61,7 +61,7 @@
   },
   "dependencies": {
     "@cocreate/api": "^1.10.17",
-    "@cocreate/docs": "^1.8.2",
+    "@cocreate/docs": "^1.8.13",
     "chrome-launcher": "^0.14.0",
     "chrome-remote-interface": "^0.30.0",
     "fs": "^0.0.1-security",
