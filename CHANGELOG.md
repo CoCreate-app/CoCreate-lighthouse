@@ -1,3 +1,10 @@
+## [1.4.20](https://github.com/CoCreate-app/CoCreate-lighthouse/compare/v1.4.19...v1.4.20) (2023-06-11)
+
+
+### Bug Fixes
+
+* @cocreate/cli moved to dependencies ([bfdfd08](https://github.com/CoCreate-app/CoCreate-lighthouse/commit/bfdfd0893ff37b95ccafec497545e4f48669038e))
+
 ## [1.4.19](https://github.com/CoCreate-app/CoCreate-lighthouse/compare/v1.4.18...v1.4.19) (2023-06-11)
 
 
