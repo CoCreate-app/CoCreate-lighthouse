@@ -1,3 +1,10 @@
+## [1.4.21](https://github.com/CoCreate-app/CoCreate-lighthouse/compare/v1.4.20...v1.4.21) (2023-06-11)
+
+
+### Bug Fixes
+
+* postintall error ([b409611](https://github.com/CoCreate-app/CoCreate-lighthouse/commit/b409611a53e7521749bdf01fbba9fa89f5ac6640))
+
 ## [1.4.20](https://github.com/CoCreate-app/CoCreate-lighthouse/compare/v1.4.19...v1.4.20) (2023-06-11)
 
 
