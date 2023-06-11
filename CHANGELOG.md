@@ -1,3 +1,10 @@
+## [1.4.25](https://github.com/CoCreate-app/CoCreate-lighthouse/compare/v1.4.24...v1.4.25) (2023-06-11)
+
+
+### Bug Fixes
+
+* testing workflow ([cd423dc](https://github.com/CoCreate-app/CoCreate-lighthouse/commit/cd423dc34c0c44a54334afaef53982b697fad975))
+
 ## [1.4.24](https://github.com/CoCreate-app/CoCreate-lighthouse/compare/v1.4.23...v1.4.24) (2023-06-11)
 
 
