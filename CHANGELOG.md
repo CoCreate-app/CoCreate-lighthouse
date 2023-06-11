@@ -1,3 +1,10 @@
+## [1.4.18](https://github.com/CoCreate-app/CoCreate-lighthouse/compare/v1.4.17...v1.4.18) (2023-06-11)
+
+
+### Bug Fixes
+
+* renamed hosts to host. the value can be a string or an array of strings ([6aada78](https://github.com/CoCreate-app/CoCreate-lighthouse/commit/6aada78cf8376bab4e9c2b8e244ecd5b69663698))
+
 ## [1.4.17](https://github.com/CoCreate-app/CoCreate-lighthouse/compare/v1.4.16...v1.4.17) (2023-06-10)
 
 
