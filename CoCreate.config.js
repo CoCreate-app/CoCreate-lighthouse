@@ -4,8 +4,8 @@ module.exports = {
     "host": "",
     "sources": [
         {
-            "collection": "files",
-            "document": {
+            "array": "files",
+            "object": {
                 "_id": "6028455571064611a678a1b1",
                 "name": "index.html",
                 "path": "/docs/lighthouse/index.html",
