@@ -1,3 +1,18 @@
+# [1.5.0](https://github.com/CoCreate-app/CoCreate-lighthouse/compare/v1.4.29...v1.5.0) (2023-08-16)
+
+
+### Bug Fixes
+
+* crud attributes renamed ([87a954e](https://github.com/CoCreate-app/CoCreate-lighthouse/commit/87a954e9e928a911cce697bf8418e04d8bf86893))
+* render-array and render-object attributes renamed to render ([433a879](https://github.com/CoCreate-app/CoCreate-lighthouse/commit/433a879322b42ad686c6393830d83e9f47a9599e))
+* replace -target -selector ([2ddda5a](https://github.com/CoCreate-app/CoCreate-lighthouse/commit/2ddda5a74d4b9fe648deef9ebca2406f142c9f16))
+* webpack.config and package.json make use of mode=production instead of process.env ([961d51f](https://github.com/CoCreate-app/CoCreate-lighthouse/commit/961d51fe803070c540d4a879c3f87700b7d6b72e))
+
+
+### Features
+
+* name attribute and variable renamed to key ([98db633](https://github.com/CoCreate-app/CoCreate-lighthouse/commit/98db6335f67a3a860302b6d7a3f07f87d9dbafe6))
+
 ## [1.4.29](https://github.com/CoCreate-app/CoCreate-lighthouse/compare/v1.4.28...v1.4.29) (2023-06-14)
 
 
