@@ -1,3 +1,12 @@
+## [1.6.1](https://github.com/CoCreate-app/CoCreate-lighthouse/compare/v1.6.0...v1.6.1) (2023-08-21)
+
+
+### Bug Fixes
+
+* /dist/CoCreate.js updated to https://CoCreate.app/dist/CoCreate.js ([a9e57b0](https://github.com/CoCreate-app/CoCreate-lighthouse/commit/a9e57b00080fe1335816049034343c7e1171a8c1))
+* replace cdn with /dist ([004fef4](https://github.com/CoCreate-app/CoCreate-lighthouse/commit/004fef499344a70debfce142774682bd20142c25))
+* update file uploader ([9628822](https://github.com/CoCreate-app/CoCreate-lighthouse/commit/9628822e0bab0f46479e8e71a71c277bc24c1b2e))
+
 # [1.6.0](https://github.com/CoCreate-app/CoCreate-lighthouse/compare/v1.5.0...v1.6.0) (2023-08-17)
 
 
