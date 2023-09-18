@@ -1,3 +1,11 @@
+## [1.7.2](https://github.com/CoCreate-app/CoCreate-lighthouse/compare/v1.7.1...v1.7.2) (2023-09-18)
+
+
+### Bug Fixes
+
+*  Add path and pathname ([f4781de](https://github.com/CoCreate-app/CoCreate-lighthouse/commit/f4781dee2e1ea57fe769c96689586c11c694a80e))
+* Update CoCreate depndencies to latest versions ([dc812d5](https://github.com/CoCreate-app/CoCreate-lighthouse/commit/dc812d5fe6fd0759d071db0228c80b2869edffa0))
+
 ## [1.7.1](https://github.com/CoCreate-app/CoCreate-lighthouse/compare/v1.7.0...v1.7.1) (2023-08-21)
 
 
