@@ -8,17 +8,16 @@ module.exports = {
             "object": {
                 "_id": "6028455571064611a678a1b1",
                 "name": "index.html",
-                "path": "/docs/lighthouse/index.html",
+                "path": "/docs/lighthouse",
+                "pathname": "/docs/lighthouse/index.html",
                 "src": "{{./docs/index.html}}",
                 "host": [
                     "*",
                     "general.cocreate.app"
                 ],
-                "directory": "/docs/lighthouse",
-                "parentDirectory": "{{parentDirectory}}",
+                "directory": "lighthouse",
                 "content-type": "{{content-type}}",
-                "public": "true",
-                "website_id": "644d4bff8036fb9d1d1fd69c"
+                "public": "true"
             }
         }
     ]
