@@ -1,3 +1,10 @@
+# [1.8.0](https://github.com/CoCreate-app/CoCreate-lighthouse/compare/v1.7.2...v1.8.0) (2023-09-19)
+
+
+### Features
+
+* Update CoCreate dependencies to their latest versions ([6ed702b](https://github.com/CoCreate-app/CoCreate-lighthouse/commit/6ed702b41e6f26f983fd6f430168f375204788c3))
+
 ## [1.7.2](https://github.com/CoCreate-app/CoCreate-lighthouse/compare/v1.7.1...v1.7.2) (2023-09-18)
 
 
