@@ -12,8 +12,7 @@ module.exports = {
                 "pathname": "/docs/lighthouse/index.html",
                 "src": "{{./docs/index.html}}",
                 "host": [
-                    "*",
-                    "general.cocreate.app"
+                    "*"
                 ],
                 "directory": "lighthouse",
                 "content-type": "{{content-type}}",
