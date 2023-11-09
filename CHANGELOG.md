@@ -1,3 +1,11 @@
+## [1.8.6](https://github.com/CoCreate-app/CoCreate-lighthouse/compare/v1.8.5...v1.8.6) (2023-11-09)
+
+
+### Bug Fixes
+
+* meta name typo ([70f8d18](https://github.com/CoCreate-app/CoCreate-lighthouse/commit/70f8d1891691bd4abcf38568382a335ae44cca9a))
+* update host ([bf477d5](https://github.com/CoCreate-app/CoCreate-lighthouse/commit/bf477d5dcd62a9f1be08c483383395c0e8cf996e))
+
 ## [1.8.5](https://github.com/CoCreate-app/CoCreate-lighthouse/compare/v1.8.4...v1.8.5) (2023-11-03)
 
 
