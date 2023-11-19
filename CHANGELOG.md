@@ -1,3 +1,15 @@
+# [1.9.0](https://github.com/CoCreate-app/CoCreate-lighthouse/compare/v1.8.7...v1.9.0) (2023-11-19)
+
+
+### Bug Fixes
+
+* removed dead code ([cefe443](https://github.com/CoCreate-app/CoCreate-lighthouse/commit/cefe443051ea88bdceb7e947a4a020ebd813a07c))
+
+
+### Features
+
+* update dependecies for th latest features and bug fixes ([faab7f2](https://github.com/CoCreate-app/CoCreate-lighthouse/commit/faab7f278d6368b000b992cde1dfa4d601652521))
+
 ## [1.8.7](https://github.com/CoCreate-app/CoCreate-lighthouse/compare/v1.8.6...v1.8.7) (2023-11-12)
 
 
