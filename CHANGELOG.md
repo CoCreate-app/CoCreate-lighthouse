@@ -1,3 +1,15 @@
+# [1.10.0](https://github.com/CoCreate-app/CoCreate-lighthouse/compare/v1.9.0...v1.10.0) (2023-11-25)
+
+
+### Bug Fixes
+
+* update nav, edit button and css path ([5d78156](https://github.com/CoCreate-app/CoCreate-lighthouse/commit/5d78156d94b3becaf71c220a3118e8dc05c5edbb))
+
+
+### Features
+
+* upgrade dependencies for latest features and fixes ([82c8577](https://github.com/CoCreate-app/CoCreate-lighthouse/commit/82c857794f463f1c2b659eaa03d9953ef8559f91))
+
 # [1.9.0](https://github.com/CoCreate-app/CoCreate-lighthouse/compare/v1.8.7...v1.9.0) (2023-11-19)
 
 
