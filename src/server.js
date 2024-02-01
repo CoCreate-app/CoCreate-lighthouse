@@ -1,5 +1,4 @@
 'use strict'
-const api = require('@cocreate/api');
 const lighthouse = require('lighthouse');
 //const config = require('./config.js');
 const fs = require('fs');
