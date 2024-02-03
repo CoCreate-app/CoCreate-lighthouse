@@ -1,3 +1,10 @@
+## [1.11.1](https://github.com/CoCreate-app/CoCreate-lighthouse/compare/v1.11.0...v1.11.1) (2024-02-03)
+
+
+### Bug Fixes
+
+*  removed from clinet.js ([4591758](https://github.com/CoCreate-app/CoCreate-lighthouse/commit/45917589baa293fc221977a84deddf20d8e5af91))
+
 # [1.11.0](https://github.com/CoCreate-app/CoCreate-lighthouse/compare/v1.10.0...v1.11.0) (2023-11-25)
 
 
