@@ -1,3 +1,10 @@
+## [1.11.2](https://github.com/CoCreate-app/CoCreate-lighthouse/compare/v1.11.1...v1.11.2) (2024-02-05)
+
+
+### Bug Fixes
+
+* Removed https://cdn.cocreate.app/latest/CoCreate.min.css ([cc6b6ea](https://github.com/CoCreate-app/CoCreate-lighthouse/commit/cc6b6ea196ca37f6d40aeb05e517efe557d971ef))
+
 ## [1.11.1](https://github.com/CoCreate-app/CoCreate-lighthouse/compare/v1.11.0...v1.11.1) (2024-02-03)
 
 
