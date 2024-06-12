@@ -1,3 +1,11 @@
+## [1.11.4](https://github.com/CoCreate-app/CoCreate-lighthouse/compare/v1.11.3...v1.11.4) (2024-06-12)
+
+
+### Bug Fixes
+
+* bump cocreate dependencies ([009f490](https://github.com/CoCreate-app/CoCreate-lighthouse/commit/009f490204942d71723f970526ecbf4f2a05adbd))
+* svg icon class ([7989992](https://github.com/CoCreate-app/CoCreate-lighthouse/commit/79899928f2cca4d09372419b136a25471ecaae96))
+
 ## [1.11.3](https://github.com/CoCreate-app/CoCreate-lighthouse/compare/v1.11.2...v1.11.3) (2024-04-29)
 
 
