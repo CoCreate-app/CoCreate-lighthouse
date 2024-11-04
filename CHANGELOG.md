@@ -1,3 +1,16 @@
+# [1.12.0](https://github.com/CoCreate-app/CoCreate-lighthouse/compare/v1.11.4...v1.12.0) (2024-11-04)
+
+
+### Bug Fixes
+
+* pretier.config.js and file formating ([aa81feb](https://github.com/CoCreate-app/CoCreate-lighthouse/commit/aa81feb56b920bbb99750b75c29cefceb912c8ad))
+
+
+### Features
+
+* add prettier.config.js and format files ([9995fc6](https://github.com/CoCreate-app/CoCreate-lighthouse/commit/9995fc61e15bb6c399e68aff607f46ca325b8d33))
+* add prettier.config.js and format files ([b4a863d](https://github.com/CoCreate-app/CoCreate-lighthouse/commit/b4a863d6ac1b26b37f4593b31c7eae3150f5e182))
+
 ## [1.11.4](https://github.com/CoCreate-app/CoCreate-lighthouse/compare/v1.11.3...v1.11.4) (2024-06-12)
 
 
