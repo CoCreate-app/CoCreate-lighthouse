@@ -1,3 +1,13 @@
+## [1.12.1](https://github.com/CoCreate-app/CoCreate-lighthouse/compare/v1.12.0...v1.12.1) (2025-04-30)
+
+
+### Bug Fixes
+
+* added css-loader ([f31c6ae](https://github.com/CoCreate-app/CoCreate-lighthouse/commit/f31c6aeb08d74af0168dde471214acf1be04e6cd))
+* update query attributes ([ec5c232](https://github.com/CoCreate-app/CoCreate-lighthouse/commit/ec5c232f0020a91140236d57231c0bff1d43db85))
+* updated cocreate modules versions ([d276dcc](https://github.com/CoCreate-app/CoCreate-lighthouse/commit/d276dccb5ea5549bad13481605f3e93a8f2416da))
+* webpack.config and devdependencies ([be7da1b](https://github.com/CoCreate-app/CoCreate-lighthouse/commit/be7da1b199374d1766f087681e687bdec7393343))
+
 # [1.12.0](https://github.com/CoCreate-app/CoCreate-lighthouse/compare/v1.11.4...v1.12.0) (2024-11-04)
 
 
